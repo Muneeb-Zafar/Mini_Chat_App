@@ -31,7 +31,7 @@ Easy to extend (add usernames, commands, GUI later)
 Git
 
 🔹 Clone the Repository
-git clone https://github.com/Muneeb-Zafar/Mini_Chat_App/blob/main/README.md
+git clone https://github.com/VastScientist69/Mini_Chat_App/blob/main/README.md
 cd csharp-mini-chat-app
 
 🔹 Build and Run
